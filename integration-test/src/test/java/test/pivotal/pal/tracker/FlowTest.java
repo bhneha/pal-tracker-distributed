@@ -30,7 +30,7 @@ public class FlowTest {
     }
 
     private String allocationsServerUrl(String path) {
-        return "http://localhost:8881" + path;
+            return "http://localhost:8881" + path;
     }
 
     private String backlogServerUrl(String path) {
